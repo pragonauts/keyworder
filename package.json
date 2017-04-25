@@ -1,0 +1,30 @@
+{
+  "name": "keyworder",
+  "version": "0.0.1",
+  "description": "Machine learning tool for word processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragonauts/keyworder.git"
+  },
+  "keywords": [
+    "Machine",
+    "learning",
+    "tool",
+    "for",
+    "natural",
+    "language",
+    "and",
+    "word",
+    "processing"
+  ],
+  "author": "Pragonauts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pragonauts/keyworder/issues"
+  },
+  "homepage": "https://github.com/pragonauts/keyworder#readme"
+}
