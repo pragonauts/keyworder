@@ -1,0 +1,8 @@
+# Required ENV variables
+#
+#
+# set by CircleCI: CIRCLE_PROJECT_USERNAME,CIRCLE_SHA1,
+
+machine:
+  node:
+    version: 8.0.0
